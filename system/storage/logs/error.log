@@ -1,0 +1,7 @@
+2018-02-08 15:40:59 - PHP Notice:  Undefined variable: text_information in E:\OpenServer\domains\opencart.loc\catalog\view\theme\apple\template\common\header.tpl on line 86
+2018-02-08 15:51:49 - PHP Notice:  Undefined variable: text_information in E:\OpenServer\domains\opencart.loc\catalog\view\theme\apple\template\common\header.tpl on line 87
+2018-02-08 15:51:49 - PHP Notice:  Undefined variable: informations in E:\OpenServer\domains\opencart.loc\catalog\view\theme\apple\template\common\header.tpl on line 93
+2018-02-08 15:53:05 - PHP Notice:  Undefined variable: text_information in E:\OpenServer\domains\opencart.loc\catalog\view\theme\apple\template\common\header.tpl on line 87
+2018-02-08 15:53:05 - PHP Notice:  Undefined variable: informations in E:\OpenServer\domains\opencart.loc\catalog\view\theme\apple\template\common\header.tpl on line 93
+2018-02-08 15:57:44 - PHP Notice:  Undefined variable: text_information in E:\OpenServer\domains\opencart.loc\catalog\view\theme\apple\template\common\header.tpl on line 87
+2018-02-08 15:57:44 - PHP Notice:  Undefined variable: informations in E:\OpenServer\domains\opencart.loc\catalog\view\theme\apple\template\common\header.tpl on line 93
